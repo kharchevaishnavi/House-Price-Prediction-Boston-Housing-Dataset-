@@ -39,6 +39,12 @@ This project demonstrates:
   - Mean Squared Error (MSE)
   - R² Score
 
+ 📊 Model Output
+![Predicted vs Actual Prices](Screenshots/output_graph.png)
+
+## 📈 Model Evaluation
+![RMSE and R2 Score](Screenshots/model_evaluation_rmse_r2.png)
+
 
 ## Output
 The notebook includes:
